@@ -32,7 +32,7 @@ int main(){
         i1 = i2;
         i2 = cont;
     }
-    cout << cont << endl;
+    cout << cont << endl; // Usando salida con formato: printf("%d\n",cont);
     
     return 0;
 }
