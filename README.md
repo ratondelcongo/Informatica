@@ -1,2 +1,2 @@
-# Informatica
-Solución de exámenes del Curso de Informática FIEE
+# INTRODUCCION AL COMPUTADOR
+Solución de exámenes y practicas calificadas del curso Introducción al Computador - FIEE
